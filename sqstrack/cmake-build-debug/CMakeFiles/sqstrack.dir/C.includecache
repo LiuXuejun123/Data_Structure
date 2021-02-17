@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liuxu/Desktop/C++/data structure/sqstrack/main.c
+stdio.h
+-
+stdlib.h
+-
+sqstack.h
+C:/Users/liuxu/Desktop/C++/data structure/sqstrack/sqstack.h
+
+C:/Users/liuxu/Desktop/C++/data structure/sqstrack/sqstack.h
+

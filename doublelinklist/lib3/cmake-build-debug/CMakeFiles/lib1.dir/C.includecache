@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/llist.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+llist.h
+C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/llist.h
+
+C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/llist.h
+

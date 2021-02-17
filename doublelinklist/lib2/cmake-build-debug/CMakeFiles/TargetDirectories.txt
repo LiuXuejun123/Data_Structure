@@ -1,0 +1,3 @@
+C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib2/cmake-build-debug/CMakeFiles/lib1.dir
+C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

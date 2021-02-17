@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liuxu/Desktop/C++/data structure/singlelist/list.h
+
+C:/Users/liuxu/Desktop/C++/data structure/singlelist/main.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+C:/Users/liuxu/Desktop/C++/data structure/singlelist/list.h
+
