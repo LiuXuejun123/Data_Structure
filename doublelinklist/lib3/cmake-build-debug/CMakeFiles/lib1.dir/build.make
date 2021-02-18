@@ -42,10 +42,10 @@ RM = "D:\CLion\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1"
+CMAKE_SOURCE_DIR = "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/lib1.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/lib1.dir/flags.make
 
 CMakeFiles/lib1.dir/main.c.obj: CMakeFiles/lib1.dir/flags.make
 CMakeFiles/lib1.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/lib1.dir/main.c.obj"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\lib1.dir\main.c.obj   -c "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/lib1.dir/main.c.obj"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\lib1.dir\main.c.obj   -c "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\main.c"
 
 CMakeFiles/lib1.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lib1.dir/main.c.i"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\main.c" > CMakeFiles\lib1.dir\main.c.i
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\main.c" > CMakeFiles\lib1.dir\main.c.i
 
 CMakeFiles/lib1.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib1.dir/main.c.s"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\main.c" -o CMakeFiles\lib1.dir\main.c.s
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\main.c" -o CMakeFiles\lib1.dir\main.c.s
 
 CMakeFiles/lib1.dir/llist.c.obj: CMakeFiles/lib1.dir/flags.make
 CMakeFiles/lib1.dir/llist.c.obj: ../llist.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/lib1.dir/llist.c.obj"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\lib1.dir\llist.c.obj   -c "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\llist.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/lib1.dir/llist.c.obj"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\lib1.dir\llist.c.obj   -c "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\llist.c"
 
 CMakeFiles/lib1.dir/llist.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lib1.dir/llist.c.i"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\llist.c" > CMakeFiles\lib1.dir\llist.c.i
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\llist.c" > CMakeFiles\lib1.dir\llist.c.i
 
 CMakeFiles/lib1.dir/llist.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lib1.dir/llist.c.s"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\llist.c" -o CMakeFiles\lib1.dir\llist.c.s
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\llist.c" -o CMakeFiles\lib1.dir\llist.c.s
 
 # Object files for target lib1
 lib1_OBJECTS = \
@@ -96,7 +96,7 @@ lib1.exe: CMakeFiles/lib1.dir/build.make
 lib1.exe: CMakeFiles/lib1.dir/linklibs.rsp
 lib1.exe: CMakeFiles/lib1.dir/objects1.rsp
 lib1.exe: CMakeFiles/lib1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable lib1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable lib1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\lib1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/lib1.dir/clean:
 .PHONY : CMakeFiles/lib1.dir/clean
 
 CMakeFiles/lib1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1" "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1" "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\cmake-build-debug" "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\cmake-build-debug" "C:\Users\liuxu\Desktop\C++\data structure\doublelinklist\lib1\cmake-build-debug\CMakeFiles\lib1.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\cmake-build-debug" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\cmake-build-debug" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\doublelinklist\lib3\cmake-build-debug\CMakeFiles\lib1.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/lib1.dir/depend
 

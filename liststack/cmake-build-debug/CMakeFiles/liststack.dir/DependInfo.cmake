@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/liuxu/Desktop/C++/data structure/liststack/main.c" "C:/Users/liuxu/Desktop/C++/data structure/liststack/cmake-build-debug/CMakeFiles/liststack.dir/main.c.obj"
+  "C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/llist.c" "C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/cmake-build-debug/CMakeFiles/liststack.dir/llist.c.obj"
+  "C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/main.c" "C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/cmake-build-debug/CMakeFiles/liststack.dir/main.c.obj"
+  "C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/stack.c" "C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/cmake-build-debug/CMakeFiles/liststack.dir/stack.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

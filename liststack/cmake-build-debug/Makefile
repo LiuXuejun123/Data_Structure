@@ -47,10 +47,10 @@ RM = "D:\CLion\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\liuxu\Desktop\C++\data structure\liststack"
+CMAKE_SOURCE_DIR = "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug\CMakeFiles" "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -122,6 +122,33 @@ liststack/fast:
 	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/build
 .PHONY : liststack/fast
 
+llist.obj: llist.c.obj
+
+.PHONY : llist.obj
+
+# target to build an object file
+llist.c.obj:
+	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/llist.c.obj
+.PHONY : llist.c.obj
+
+llist.i: llist.c.i
+
+.PHONY : llist.i
+
+# target to preprocess a source file
+llist.c.i:
+	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/llist.c.i
+.PHONY : llist.c.i
+
+llist.s: llist.c.s
+
+.PHONY : llist.s
+
+# target to generate assembly for a file
+llist.c.s:
+	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/llist.c.s
+.PHONY : llist.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -149,6 +176,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/main.c.s
 .PHONY : main.c.s
 
+stack.obj: stack.c.obj
+
+.PHONY : stack.obj
+
+# target to build an object file
+stack.c.obj:
+	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/stack.c.obj
+.PHONY : stack.c.obj
+
+stack.i: stack.c.i
+
+.PHONY : stack.i
+
+# target to preprocess a source file
+stack.c.i:
+	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/stack.c.i
+.PHONY : stack.c.i
+
+stack.s: stack.c.s
+
+.PHONY : stack.s
+
+# target to generate assembly for a file
+stack.c.s:
+	$(MAKE) -f CMakeFiles\liststack.dir\build.make CMakeFiles/liststack.dir/stack.c.s
+.PHONY : stack.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -158,9 +212,15 @@ help:
 	@echo ... liststack
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... llist.obj
+	@echo ... llist.i
+	@echo ... llist.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... stack.obj
+	@echo ... stack.i
+	@echo ... stack.s
 .PHONY : help
 
 

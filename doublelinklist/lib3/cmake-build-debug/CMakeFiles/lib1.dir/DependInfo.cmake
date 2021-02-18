@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/llist.c" "C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/CMakeFiles/lib1.dir/llist.c.obj"
-  "C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/main.c" "C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/CMakeFiles/lib1.dir/main.c.obj"
+  "C:/Users/liuxu/Desktop/C&learn/Data_Structure/doublelinklist/lib3/llist.c" "C:/Users/liuxu/Desktop/C&learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/CMakeFiles/lib1.dir/llist.c.obj"
+  "C:/Users/liuxu/Desktop/C&learn/Data_Structure/doublelinklist/lib3/main.c" "C:/Users/liuxu/Desktop/C&learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/CMakeFiles/lib1.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

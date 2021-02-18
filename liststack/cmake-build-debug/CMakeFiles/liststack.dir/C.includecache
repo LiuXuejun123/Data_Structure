@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/llist.h
+
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/main.c
+stdio.h
+-
+stdlib.h
+-
+stack.h
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/stack.h
+
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/stack.h
+llist.h
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/liststack/llist.h
+

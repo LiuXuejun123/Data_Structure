@@ -54,7 +54,7 @@ int main() {
 
     int id=3;
     int ret;
-    char *del_name ="std6";
+    char *del_name ="std4";
 
     ret=llist_delete(handler,del_name,name_cmp);
 if (ret)

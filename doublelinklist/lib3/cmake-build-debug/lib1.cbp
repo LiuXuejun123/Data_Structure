@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lib1">
-				<Option output="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/lib1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug"/>
+				<Option output="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/lib1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -29,15 +29,15 @@
 					<Add directory="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lib1"/>
-					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lib1"/>
+					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lib1/fast">
-				<Option output="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/lib1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug"/>
+				<Option output="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/lib1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -47,43 +47,43 @@
 					<Add directory="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 lib1/fast"/>
-					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lib1/fast"/>
+					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/llist.c">
+		<Unit filename="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/llist.c">
 			<Option target="lib1"/>
 		</Unit>
-		<Unit filename="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/llist.h">
+		<Unit filename="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/llist.h">
 			<Option target="lib1"/>
 		</Unit>
-		<Unit filename="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/main.c">
+		<Unit filename="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/main.c">
 			<Option target="lib1"/>
 		</Unit>
-		<Unit filename="C:/Users/liuxu/Desktop/C++/data structure/doublelinklist/lib1/CMakeLists.txt">
+		<Unit filename="C:/Users/liuxu/Desktop/C&amp;learn/Data_Structure/doublelinklist/lib3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

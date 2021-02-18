@@ -42,10 +42,10 @@ RM = "D:\CLion\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\liuxu\Desktop\C++\data structure\liststack"
+CMAKE_SOURCE_DIR = "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/liststack.dir/depend.make
@@ -58,30 +58,60 @@ include CMakeFiles/liststack.dir/flags.make
 
 CMakeFiles/liststack.dir/main.c.obj: CMakeFiles/liststack.dir/flags.make
 CMakeFiles/liststack.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/liststack.dir/main.c.obj"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\liststack.dir\main.c.obj   -c "C:\Users\liuxu\Desktop\C++\data structure\liststack\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/liststack.dir/main.c.obj"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\liststack.dir\main.c.obj   -c "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\main.c"
 
 CMakeFiles/liststack.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/liststack.dir/main.c.i"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C++\data structure\liststack\main.c" > CMakeFiles\liststack.dir\main.c.i
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\main.c" > CMakeFiles\liststack.dir\main.c.i
 
 CMakeFiles/liststack.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/liststack.dir/main.c.s"
-	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C++\data structure\liststack\main.c" -o CMakeFiles\liststack.dir\main.c.s
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\main.c" -o CMakeFiles\liststack.dir\main.c.s
+
+CMakeFiles/liststack.dir/stack.c.obj: CMakeFiles/liststack.dir/flags.make
+CMakeFiles/liststack.dir/stack.c.obj: ../stack.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/liststack.dir/stack.c.obj"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\liststack.dir\stack.c.obj   -c "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\stack.c"
+
+CMakeFiles/liststack.dir/stack.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/liststack.dir/stack.c.i"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\stack.c" > CMakeFiles\liststack.dir\stack.c.i
+
+CMakeFiles/liststack.dir/stack.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/liststack.dir/stack.c.s"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\stack.c" -o CMakeFiles\liststack.dir\stack.c.s
+
+CMakeFiles/liststack.dir/llist.c.obj: CMakeFiles/liststack.dir/flags.make
+CMakeFiles/liststack.dir/llist.c.obj: ../llist.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/liststack.dir/llist.c.obj"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\liststack.dir\llist.c.obj   -c "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\llist.c"
+
+CMakeFiles/liststack.dir/llist.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/liststack.dir/llist.c.i"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\llist.c" > CMakeFiles\liststack.dir\llist.c.i
+
+CMakeFiles/liststack.dir/llist.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/liststack.dir/llist.c.s"
+	"D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\llist.c" -o CMakeFiles\liststack.dir\llist.c.s
 
 # Object files for target liststack
 liststack_OBJECTS = \
-"CMakeFiles/liststack.dir/main.c.obj"
+"CMakeFiles/liststack.dir/main.c.obj" \
+"CMakeFiles/liststack.dir/stack.c.obj" \
+"CMakeFiles/liststack.dir/llist.c.obj"
 
 # External object files for target liststack
 liststack_EXTERNAL_OBJECTS =
 
 liststack.exe: CMakeFiles/liststack.dir/main.c.obj
+liststack.exe: CMakeFiles/liststack.dir/stack.c.obj
+liststack.exe: CMakeFiles/liststack.dir/llist.c.obj
 liststack.exe: CMakeFiles/liststack.dir/build.make
 liststack.exe: CMakeFiles/liststack.dir/linklibs.rsp
 liststack.exe: CMakeFiles/liststack.dir/objects1.rsp
 liststack.exe: CMakeFiles/liststack.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable liststack.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable liststack.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\liststack.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -94,6 +124,6 @@ CMakeFiles/liststack.dir/clean:
 .PHONY : CMakeFiles/liststack.dir/clean
 
 CMakeFiles/liststack.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\liuxu\Desktop\C++\data structure\liststack" "C:\Users\liuxu\Desktop\C++\data structure\liststack" "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug" "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug" "C:\Users\liuxu\Desktop\C++\data structure\liststack\cmake-build-debug\CMakeFiles\liststack.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug" "C:\Users\liuxu\Desktop\C&learn\Data_Structure\liststack\cmake-build-debug\CMakeFiles\liststack.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/liststack.dir/depend
 
