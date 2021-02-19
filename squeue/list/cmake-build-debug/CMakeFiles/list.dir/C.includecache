@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/squeue/list/llist.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+llist.h
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/squeue/list/llist.h
+
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/squeue/list/llist.h
+

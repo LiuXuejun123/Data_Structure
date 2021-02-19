@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/squeue/arr/main.c
+stdio.h
+-
+stdlib.h
+-
+queue.h
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/squeue/arr/queue.h
+
+C:/Users/liuxu/Desktop/C&learn/Data_Structure/squeue/arr/queue.h
+
